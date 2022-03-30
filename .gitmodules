@@ -1,4 +1,0 @@
-[submodule "static"]
-	path = static
-	url = https://github.com/127359/uvstatic/
-	branch = master
